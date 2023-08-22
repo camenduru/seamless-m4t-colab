@@ -9,13 +9,21 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_m4t_colab.ipynb) | seamless_m4t_colab
 
 ## Main Repo
-https://github.com/facebookresearch/seamless_communication
+https://github.com/facebookresearch/seamless_communication <br />
+https://huggingface.co/spaces/facebook/seamless_m4t/tree/main <br />
 
 ## Page
 https://ai.meta.com/resources/models-and-libraries/seamless-communication/
 
 ## Paper
 https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf
+
+# Model
+https://huggingface.co/facebook/seamless-m4t-large
+https://huggingface.co/facebook/seamless-m4t-medium
+
+# License
+https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB
 
 ## Output
 
