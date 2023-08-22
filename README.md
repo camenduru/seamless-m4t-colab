@@ -19,8 +19,8 @@ https://ai.meta.com/resources/models-and-libraries/seamless-communication/
 https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf
 
 # Model
-https://huggingface.co/facebook/seamless-m4t-large
-https://huggingface.co/facebook/seamless-m4t-medium
+https://huggingface.co/facebook/seamless-m4t-large <br />
+https://huggingface.co/facebook/seamless-m4t-medium <br />
 
 # License
 https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB
