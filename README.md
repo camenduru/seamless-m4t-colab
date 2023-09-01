@@ -16,7 +16,8 @@ https://huggingface.co/spaces/facebook/seamless_m4t/tree/main <br />
 https://ai.meta.com/resources/models-and-libraries/seamless-communication/
 
 ## Paper
-https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf
+https://arxiv.org/abs/2308.11596 <br />
+https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf <br />
 
 # Model
 https://huggingface.co/facebook/seamless-m4t-large <br />
