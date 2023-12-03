@@ -6,6 +6,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_expressive_v2_colab.ipynb) | seamless_expressive_v2_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_m4t_v2_colab.ipynb) | seamless_m4t_v2_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/seamless-m4t-colab/blob/main/seamless_m4t_colab.ipynb) | seamless_m4t_colab
 
