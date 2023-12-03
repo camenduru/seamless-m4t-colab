@@ -34,6 +34,11 @@ https://ai.meta.com/resources/models-and-libraries/seamless-downloads <br />
 https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB <br />
 
 ## Output
+seamless_expressive_v2_colab
+
+https://github.com/camenduru/seamless-m4t-colab/assets/54370274/72602abb-8361-4ac8-9a05-d85119622391
+
+seamless_m4t_v2_colab
 
 https://github.com/camenduru/seamless-m4t-colab/assets/54370274/b735229a-5daf-472f-ac0f-02ad247296b9
 
