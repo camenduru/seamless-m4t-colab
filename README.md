@@ -30,5 +30,8 @@ https://huggingface.co/facebook/seamless-m4t-medium <br />
 https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB
 
 ## Output
+
+https://github.com/camenduru/seamless-m4t-colab/assets/54370274/b735229a-5daf-472f-ac0f-02ad247296b9
+
 https://github.com/camenduru/seamless-m4t-colab/assets/54370274/164d86ec-79e3-415f-a9a0-6c9c25042de9
 
