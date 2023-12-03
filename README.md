@@ -21,6 +21,7 @@ https://arxiv.org/abs/2308.11596 <br />
 https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf <br />
 
 # Model
+https://huggingface.co/facebook/seamless-m4t-v2-large <br />
 https://huggingface.co/facebook/seamless-m4t-large <br />
 https://huggingface.co/facebook/seamless-m4t-medium <br />
 
