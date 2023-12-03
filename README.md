@@ -15,11 +15,10 @@ https://github.com/facebookresearch/seamless_communication <br />
 https://huggingface.co/spaces/facebook/seamless_m4t/tree/main <br />
 
 ## Page
-https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation <br />
 https://ai.meta.com/research/seamless-communication <br />
-https://ai.meta.com/resources/models-and-libraries/seamless-communication/ <br />
 
 ## Paper
+https://ai.meta.com/research/publications/seamless-multilingual-expressive-and-streaming-speech-translation/ <br />
 https://arxiv.org/abs/2308.11596 <br />
 https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf <br />
 https://arxiv.org/abs/2308.05725 <br />
