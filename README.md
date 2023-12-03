@@ -14,7 +14,8 @@ https://github.com/facebookresearch/seamless_communication <br />
 https://huggingface.co/spaces/facebook/seamless_m4t/tree/main <br />
 
 ## Page
-https://ai.meta.com/resources/models-and-libraries/seamless-communication/
+https://ai.meta.com/research/seamless-communication <br />
+https://ai.meta.com/resources/models-and-libraries/seamless-communication/ <br />
 
 ## Paper
 https://arxiv.org/abs/2308.11596 <br />
