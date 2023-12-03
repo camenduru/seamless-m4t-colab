@@ -27,7 +27,8 @@ https://huggingface.co/facebook/seamless-m4t-large <br />
 https://huggingface.co/facebook/seamless-m4t-medium <br />
 
 # License
-https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB
+https://ai.meta.com/resources/models-and-libraries/seamless-downloads <br />
+https://creativecommons.org/licenses/by-nc/4.0/deed.en_GB <br />
 
 ## Output
 
